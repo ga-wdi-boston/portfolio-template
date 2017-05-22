@@ -1,10 +1,46 @@
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
-# Talk Template
+# Portfolio Template
 
-Use this template to structure your READMEs for talks. Remove text from this
-section, or use it to frame the talk you are giving. Good framing answers the
-question "Why am I learning this?".
+Use this template to structure your Portfolios.
+
+# User Stories to Get Started With
+-  As a non-technical HR manager, I want to quickly evaluate whether this candidate has the skills and experience to fill an open position at my company.
+-  As a mid-level engineer, I want to evaluate a junior developer’s coding skills by reviewing their projects and reading their code.
+-  As a friend of the person who built this portfolio, I want to understand what they do as a developer and what they have created.
+
+NOTE: There are lots more, but let's start with these!
+
+# Portfolios must include these sections:
+-  About Me: Short blurb explaining who you are, and some background info
+-  Skills: All the skills you have that may be helpful on the job
+-  Contact info (email, LinkedIn, GitHub, city)
+-  Resume view & download
+-  Showcase your GA projects (more details below)
+-  Blog posts (2-4) — Link to a medium account, or these could be built in native to the app if you really want bonus points!
+
+# Optional:
+-  Personal hobbies/interests
+-  Professional Timeline (a visual representation of your work history)
+-  Additional work samples (visual design, writing samples, a link to your photography blog)
+-  Social profiles if relevant (Twitter, instagram, if they highlight you professionally, not just what your meals look like)
+-  Could include phone number and mailing address, but not necessary
+
+# Notes on highlighting your GA projects:
+-  Include links to live site as well as front-end and back-end repos
+-  Describe both the functionality of the site as well as what technologies you used to build it.
+-  Talk about your process for building this app. If you have a blog post that goes into detail for each project, link to that post.
+-  As you add your GA projects to your portfolio, make sure they are user-friendly to an unacquainted visitor.
+-  The home page should explain the site’s functionality
+-  Random users might not want to sign up/sign in. You should either put dummy credentials on the homepage that they can use (and explain that), or make sure they can interact with the site without signing up.
+-  Clean up the data you’ve entered on the site as you were testing it.
+
+## A Quick Note About Design:
+If you’ve got design chops, use them. You have an opportunity to impress a wide audience with both your coding skills and your design abilities with this site.
+If you are not a strong designer, that’s okay too! Don’t try to be something that you’re not on this site. Keep your design simple, or mock up your site based off of another site you have seen that looks great. Get feedback from colleagues (especially non-developers and non-designers) to make sure it doesn’t look terrible. Keep it neutral and focus on producing good projects.
+
+
+
 
 Be sure to include a recent [`LICENSE`](LICENSE) and Markdown linter
 configuration ([`.remarkrc`](.remarkrc)). Also, include an appropriate
